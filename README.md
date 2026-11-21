@@ -47,7 +47,7 @@ el sentido de la corriente según la Ley de Lenz.
 Requiere **Python 3.10 o superior**.
 
 ```bash
-git clone https://github.com/<tu-usuario>/simulador-faraday-lenz.git
+git clone https://github.com/Hellum-d/simulador-faraday-lenz.git
 cd simulador-faraday-lenz
 python -m venv .venv
 # Windows
